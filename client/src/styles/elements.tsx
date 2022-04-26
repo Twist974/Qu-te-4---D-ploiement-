@@ -18,7 +18,7 @@ export const Container = styled.div`
 
 export const CardRow = styled.section`
   display: grid;
-  grid-template-columns: repeat(3, 32%);
+  grid-template-columns: repeat(3, 30%);
   justify-content: space-between;
 `;
 
